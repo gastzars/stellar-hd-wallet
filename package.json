@@ -24,7 +24,7 @@
     "keys"
   ],
   "dependencies": {
-    "bip39": "^2.5.0",
+    "bip39": "github:gastzars/bip39#master",
     "ed25519-hd-key": "^0.5.0",
     "lodash": "4.17.10",
     "stellar-base": "^0.8.2"
